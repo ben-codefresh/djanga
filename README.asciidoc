@@ -85,5 +85,4 @@ docker run -it --link integration_web_1:web phusion/baseimage bash -c "curl --si
 exit=$?
 ----
 
-
 And there you have it!
